@@ -1,2 +1,2 @@
-console.log("Hello Git!");
-alert("I am Awng Awng");
+console.log("Hello Git from test feature!");
+alert("I am Test Feature");
